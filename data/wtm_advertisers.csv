@@ -1,4 +1,5 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_active,entities.is_political,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+2f2454d6-668f-4ff5-a9bf-8564e3836dd6,Nenad Bučko,2023-07-08T06:07:06.836Z,ea066c3d-ebf9-4636-9b0a-790bd4dd97e6,HNS,true,true,Croatia,hr,105322958200874,Nenad Bučko,Facebook
 3f3b2a34-d1b4-424b-83ea-84ad77b967df,Davor Nađi (HNS),2022-08-16T15:24:36.239Z,79756d32-5915-4f23-b45d-bf571cc68a63,HNS,true,true,Croatia,hr,1640498282692610,Davor Nađi (HNS),Facebook
 946ead9a-8f90-4d5b-990e-af9fad9fa29b,Hrvatska narodna stranka - liberalni demokrati (HNS),2022-08-16T15:24:01.501Z,422f3e1d-912b-45f2-aa2a-8ed482c431be,HNS,true,true,Croatia,hr,139606619434725,Hrvatska narodna stranka - liberalni demokrati (HNS),Facebook
 96800b50-f16e-4465-89a5-4f8a171db871,Matija Posavec (HNS),2022-08-16T15:24:36.222Z,456c5896-2a4f-4b68-99e5-22fc15ec1f48,HNS,true,true,Croatia,hr,624340244248453,Matija Posavec (HNS),Facebook
@@ -11,6 +12,7 @@ eefe915b-38dd-41de-bcf7-fca4c2edf24e,Hrvatska narodna stranka - liberalni demokr
 f32b6510-9806-4e45-a143-30aa837768f1,Habib Tahiri (HNS),2022-08-16T15:24:36.243Z,c30d1bf8-47e2-43d9-a8b2-24c5bd777fdf,HNS,true,true,Croatia,hr,750800161983664,Habib Tahiri (HNS),Facebook
 01ce4d01-5f88-4594-b4e9-1f7667dbcf01,Karlo Ressler (HDZ),2022-08-16T15:24:35.599Z,21809cd4-e155-4261-8be1-a2be0158e351,HDZ,true,true,Croatia,hr,272201106998604,Karlo Ressler (HDZ),Facebook
 0f6a563a-4a9f-4ae2-917a-ea97f06158de,Dubravka Suica (HDZ),2022-08-16T15:24:35.605Z,1ebe4f1d-aad7-4ea5-aee4-f53239c48edf,HDZ,true,true,Croatia,hr,195119363993494,Dubravka Suica (HDZ),Facebook
+163d0bef-2509-470c-9e06-37c27582ed1a,Andrej Plenković,2023-10-29T05:06:55.572Z,f246c1ad-a477-4981-aef2-10a04e582b6f,HDZ,true,true,Croatia,hr,633028036739134,Andrej Plenković,Facebook
 315d01a9-2e0c-496c-a3a1-c681fee0afc8,HDZ Split,2023-03-08T10:52:51.303Z,0c8a64ac-7ad4-4872-96bf-fc87da1e2988,HDZ,true,true,Croatia,hr,756983767690839,HDZ Split,Facebook
 3891ffc5-cc02-420c-9756-a06336d3b26d,Mladež HDZ,2023-04-09T10:52:42.564Z,17b39705-066c-4a9b-842d-d6355da3a2c4,HDZ,true,true,Croatia,hr,426737060720348,Mladež HDZ,Facebook
 5d7c8cbd-d5ce-455c-87ca-0cf5ef3a1953,HDZ Pregrada,2023-05-07T06:52:23.437Z,6f0654ce-ae5f-430f-85c8-f282d4ca5959,HDZ,true,true,Croatia,hr,1645755879015246,HDZ Pregrada,Facebook
@@ -19,6 +21,7 @@ f32b6510-9806-4e45-a143-30aa837768f1,Habib Tahiri (HNS),2022-08-16T15:24:36.243Z
 7724fdeb-136e-48ee-9303-0a4d50aab20f,HDZ Zagreb,2023-02-07T15:06:00.510Z,a9491b19-cc4c-4fc0-91a0-30cf2ae4142f,HDZ,true,true,Croatia,hr,695931033847068,HDZ Zagreb,Facebook
 795e3dae-548c-46ac-bcd3-a65a0d0a5d58,HDZ Valpovo,2023-03-03T10:52:51.574Z,36deff88-6c1e-4b7d-b0d0-10268a0d16a4,HDZ,true,true,Croatia,hr,1508218582785266,HDZ Valpovo,Facebook
 7d55bbc3-e09a-4705-827a-8f247cc3e93f,Sunčana Glavak (HDZ),2022-08-16T15:24:35.626Z,87a88db8-3789-4791-826b-262e14bf016d,HDZ,true,true,Croatia,hr,482597555105335,Sunčana Glavak (HDZ),Facebook
+907ee9a4-f428-40ce-b3df-6cf50b5be6ef,HDZ Sveti Križ Začretje,2023-12-17T05:06:39.521Z,0cb10829-ace6-41c7-8a3f-d4fee69bcb18,HDZ,true,true,Croatia,hr,833317516707414,HDZ Sveti Križ Začretje,Facebook
 94360174-42e7-4a0d-81e7-3324c700af3e,HDZ Sv. Klara,2023-03-08T14:52:22.558Z,55d6ef15-642f-46c8-8d5b-db6463c34c95,HDZ,true,true,Croatia,hr,434892630029254,HDZ Sv. Klara,Facebook
 98074d6a-e308-453e-889a-efa9a3460666,Stjepan Ribić (HDZ),2022-08-16T15:24:35.682Z,e1317327-dbcd-47e7-8df0-f03ef3d961c9,HDZ,true,true,Croatia,hr,451335735029375,Stjepan Ribić (HDZ),Facebook
 b6a89699-8855-422d-af51-113d646ebeb8,HDZ - Hrvatska demokratska zajednica (HDZ),2022-08-16T15:24:34.972Z,99c4e7e2-5cc2-4349-a4c7-ab0d32ed38a6,HDZ,true,true,Croatia,hr,406059206159790,HDZ - Hrvatska demokratska zajednica (HDZ),Facebook
@@ -30,23 +33,32 @@ c8910a2e-7bd1-4bfe-999d-757513855a53,HDZ Općine Drenovci,2023-04-12T10:52:17.80
 d76d2527-8d80-4421-abf8-8e88e99b02bf,Jakša Balov,2023-09-30T05:06:39.602Z,f49bdfe8-2634-4b8b-9219-e9170d954738,HDZ,true,true,Croatia,hr,102080472814518,Jakša Balov,Facebook
 d89823f9-1a1d-4639-9b93-a68016da46f6,Karlo Ressler,2023-02-07T15:06:00.513Z,cf2eccad-3d09-441b-a368-3762e38646fc,HDZ,true,true,Croatia,hr,272201060331942,Karlo Ressler,Facebook
 dfcdee99-69bb-4510-8a1a-819bfe4d1e1c,HDZ Zagrebačke županije,2023-02-07T15:06:00.513Z,4986d15a-3d46-4fc1-b49d-d552e0373f6e,HDZ,true,true,Croatia,hr,537207832991468,HDZ Zagrebačke županije,Facebook
+fbb96eba-06ac-4e03-90e8-29860f66cb90,Hdz Sisak,2023-12-11T05:06:28.466Z,26171764-eaf8-45e9-8144-cedae72410df,HDZ,true,true,Croatia,hr,685830871495445,Hdz Sisak,Facebook
+fd392d7c-3aff-444f-89a1-8542ef226549,HDZ Zaprešić,2023-10-22T05:06:41.614Z,82e86040-c5ab-467c-be1a-2fcc6a6ec706,HDZ,true,true,Croatia,hr,1477806172531995,HDZ Zaprešić,Facebook
 01068ed5-ec70-491f-9d28-cd489d584114,Ines Strenja (Mos),2022-08-16T15:24:35.997Z,bc074de5-76df-46f9-9e9e-6c90e1b774bb,MOS,true,true,Croatia,hr,442053045982848,Ines Strenja (Mos),Facebook
 0aeeb209-9771-45cd-b424-e1d7b94ef323,Nino Raspudić,2023-06-19T18:24:38.212Z,9b1c1df2-8fe9-4044-9826-1df4b45933e0,MOS,true,true,Croatia,hr,135517913287398,Nino Raspudić,Facebook
 10f33937-af5f-44d8-8b62-d978dcb208aa,Miro Bulj,2023-05-17T06:52:16.652Z,7983565c-5059-4bab-bc0d-225464212ee3,MOS,true,true,Croatia,hr,1252295741481540,Miro Bulj,Facebook
 183f83c8-ab4e-48ee-9b63-6746e10b8960,Ivan Matić (Mos),2022-08-16T15:24:36.100Z,3cb4f9f4-ea9f-462c-9a95-4c9fff7add7a,MOS,true,true,Croatia,hr,396987650701488,Ivan Matić (Mos),Facebook
+1f2bbfa3-fe27-4438-8c75-b229ac91d31b,MOST Podstrana,2023-03-08T14:42:32.521Z,8c3bb48f-7c51-4a16-94a2-28431f426178,MOS,true,true,Croatia,hr,102637735177522,MOST Podstrana,Facebook
+23d7c3fc-1348-42f1-a30e-065ae485a123,MOST Slavonija,2023-03-08T14:42:32.476Z,276108b4-a441-4801-a405-5a4adfdf1777,MOS,true,true,Croatia,hr,103650195579118,MOST Slavonija,Facebook
 3d366798-009a-40ea-a885-aa5030ef7f78,Ljubica Ambrušec (Mos),2022-08-16T15:24:36.034Z,874f49b7-3087-4b08-9df4-f2e422f8185a,MOS,true,true,Croatia,hr,919111048168626,Ljubica Ambrušec (Mos),Facebook
 4d38a7a5-1a02-4fae-84d7-d5e479a02e6d,MOST Podsused Vrapče,2023-08-09T05:07:10.920Z,a3098b89-f645-42b1-b44a-a7cdb5064041,MOS,true,true,Croatia,hr,102573432624634,MOST Podsused Vrapče,Facebook
 5330e039-25f4-4791-ae34-18eeaf7db547,"Ivan Bekavac, MOST do zdrave Hrvatske (Mos)",2022-08-16T15:24:36.086Z,54f423c3-2eb2-4471-b450-327b635c50c2,MOS,true,true,Croatia,hr,1137529462988070,"Ivan Bekavac, MOST do zdrave Hrvatske (Mos)",Facebook
+5506bbed-fe05-42e3-8f75-7460db683193,MOST nezavisnih lista - Zagreb,2023-11-13T05:07:22.744Z,20a0d314-67ad-4a7a-bba4-f5b4615fc5dd,MOS,true,true,Croatia,hr,1556582011317026,MOST nezavisnih lista - Zagreb,Facebook
 5f289251-4047-4833-be96-36313a3aa9e8,Dr. Ivan Bekavac,2023-05-23T06:52:49.377Z,904e62f0-495c-4412-b730-6c873f87dd75,MOS,true,true,Croatia,hr,103971088258940,Dr. Ivan Bekavac,Facebook
 6f50fbed-2f31-4769-bcee-a9885a66223a,MOST Sinj,2023-06-02T06:52:59.515Z,2f9edb02-f92a-4e05-a8b7-d02f674d657a,MOS,true,true,Croatia,hr,187194228466378,MOST Sinj,Facebook
 85173b84-a5a7-45d3-a3fd-0adaec2e9f0c,Robert Podolnjak (Mos),2022-08-16T15:24:36.021Z,1c18eedb-d044-4aa7-8f29-d6b0900220be,MOS,true,true,Croatia,hr,137769369922435,Robert Podolnjak (Mos),Facebook
+8a6a5291-4884-44ba-91a0-1a2557e89610,Most - Velika Gorica,2023-03-08T10:52:51.261Z,63a455c0-6510-4c3b-baf5-ac18527a6345,MOS,true,true,Croatia,hr,1795107684078876,Most - Velika Gorica,Facebook
+91321ba3-9e47-4668-a580-02f1063871d2,Nikola Grmoja,2023-05-03T06:52:33.234Z,9a2ec1cc-dadb-4c5a-9146-b1021e1c8a6b,MOS,true,true,Croatia,hr,1758512924436183,Nikola Grmoja,Facebook
 9b364489-d022-42bc-892c-f18ea1f85cf4,Miro Bulj (Mos),2022-08-16T15:24:36.108Z,01bacc63-8ebb-4f4f-b0cc-9227d91f8636,MOS,true,true,Croatia,hr,1252295761481530,Miro Bulj (Mos),Facebook
 a315cc2b-eb27-4b1e-84b5-04b35b20297e,MOST nezavisnih lista (Mos),2022-08-16T15:24:35.130Z,864baa1a-d8a6-4c5d-a97b-9ce91ec6bfa3,MOS,true,true,Croatia,hr,389248791163374,MOST nezavisnih lista (Mos),Facebook
 a6ccc8eb-7c7e-45a5-8e58-f2c1b0381387,MOST nezavisnih lista,2022-08-16T15:24:01.447Z,aa649782-8443-4acf-b0e5-19d0a2b5c52c,MOS,true,true,Croatia,hr,388550077899912,MOST nezavisnih lista,Facebook
 ab9ec91c-53aa-4575-a4f2-1e7a60e56c5c,Božo Petrov (Mos),2022-08-16T15:24:35.987Z,8a896545-fd9e-45f1-80dd-83c70263646d,MOS,true,true,Croatia,hr,130824960423147,Božo Petrov (Mos),Facebook
 b087dcca-b365-432a-9656-8df0eaf445a3,Mato Tomljanović - Kandidat Mosta za EU Izbore (Mos),2022-08-16T15:24:36.090Z,bdb4d392-4bfd-48aa-8743-2ecb08abbfb9,MOS,true,true,Croatia,hr,324808388390734,Mato Tomljanović - Kandidat Mosta za EU Izbore (Mos),Facebook
+b5c95cf5-6895-4683-bec9-399070c752c9,"Ivan Bekavac, MOST do zdrave Hrvatske",2023-12-11T05:06:28.446Z,b25c6941-fd06-4345-ada1-02085d6e0189,MOS,true,true,Croatia,hr,1137529059654783,"Ivan Bekavac, MOST do zdrave Hrvatske",Facebook
 c24081f8-b923-4cc2-ad92-fbdbc6cec58e,Ivan Prskalo - Kandidat Mosta za EU Izbore (Mos),2022-08-16T15:24:35.997Z,13706e79-833f-4c12-ad59-5e0a8870deff,MOS,true,true,Croatia,hr,413937249396663,Ivan Prskalo - Kandidat Mosta za EU Izbore (Mos),Facebook
 d7c80da4-e118-4105-a092-d59def5b17b5,Nizar Shoukry (Mos),2022-08-16T15:24:36.082Z,a5e5f8f5-4e54-4d2d-bfa7-850ec94e1253,MOS,true,true,Croatia,hr,386356578829113,Nizar Shoukry (Mos),Facebook
+e888f5e7-baa4-4313-a28a-89114a000f22,Most nezavisnih lista - Varaždinska županija,2023-03-30T10:52:38.974Z,b9889b0b-cfd8-4891-8c86-03e9d5c00bc6,MOS,true,true,Croatia,hr,153065878561564,Most nezavisnih lista - Varaždinska županija,Facebook
 ea0da455-2f30-4b12-b47d-175845605dab,Ružica Vukovac (Mos),2022-08-16T15:24:36.009Z,eebd899e-cd5b-4d6d-968a-e02865535142,MOS,true,true,Croatia,hr,1657306344553400,Ružica Vukovac (Mos),Facebook
 2dab5de7-5b8a-4e03-b664-33f5024fe9bd,Možemo!,2022-08-16T15:24:01.686Z,5437a9ad-bb34-4f24-8bfb-486c910769a1,MOŽ,true,true,Croatia,hr,1064762700374080,Možemo!,Facebook
 31bbca86-c59c-4c2c-a5ae-7bc29bee46e4,Možemo Split - Politička platforma,2023-03-08T10:52:51.313Z,fd380911-6fd8-4d1e-ba2e-3feaf2efa8e5,MOŽ,true,true,Croatia,hr,117545046768322,Možemo Split - Politička platforma,Facebook
@@ -86,7 +98,10 @@ dbe30a44-59b0-4bf6-b688-72ad969cb2f4,Odgovor za Varaždin,2023-03-21T10:52:33.07
 f193ec32-6629-4ecf-9e74-776dc22ea31a,SDP Hrvatske (SDP),2022-08-16T15:24:34.975Z,6e8ecda7-6f04-4d59-9330-3c4f9149caf8,SDP,true,true,Croatia,hr,129634970518,SDP Hrvatske (SDP),Facebook
 f43b380f-a592-4003-bcd1-a405a813bfed,SDP Zaprešić,2023-05-03T06:52:33.208Z,3d854003-40c3-406a-8ea2-94af30ee18de,SDP,true,true,Croatia,hr,566781040007072,SDP Zaprešić,Facebook
 fb62f05d-6820-4f7c-a755-b4760325b8fb,SDP Osijek,2023-09-24T05:06:39.422Z,e58ed863-8cfe-4c68-8120-2becefa49e14,SDP,true,true,Croatia,hr,1022902284462369,SDP Osijek,Facebook
+07c7721a-1bf8-4f7a-94b6-6d8422b14feb,SDP Korčula,2023-10-23T05:06:22.768Z,00713cad-bfcb-4b65-a3ee-ebc1721e5dd8,SD,true,true,Croatia,hr,1885362038359170,SDP Korčula,Facebook
+294efe8f-19f0-4ef8-ba3b-f97b3caca1b6,SDP Zagreb,2023-11-27T05:07:11.281Z,b39e905f-a469-46d4-963e-24c54f6b10ed,SD,true,true,Croatia,hr,157574057641898,SDP Zagreb,Facebook
 2cc07b52-899f-419a-907e-f9233fc8b740,Socijaldemokrati,2023-02-07T15:06:00.626Z,065d388d-6440-4dd7-af83-600bc2a70e8d,SD,true,true,Croatia,hr,103411068843902,Socijaldemokrati,Facebook
+bcd600d9-8ec4-4e75-b5f7-eebd5eb6e049,SDP Sisak,2023-11-26T05:07:32.093Z,4d49d97b-be56-44df-b2f5-01d6aab0f238,SD,true,true,Croatia,hr,118267131532770,SDP Sisak,Facebook
 055b6612-087f-49b0-8768-2acd75c516c9,Krešimir Kartelo (NHR),2022-08-16T15:24:36.143Z,f56e02be-6e59-4c71-83b7-81eb7e2ce13a,OTHER,true,true,Croatia,hr,372850943191313,Krešimir Kartelo (NHR),Facebook
 0b50ac3c-eecd-4237-8659-a8fc16f8f7d7,Vesna Vučemilović,2023-02-08T05:55:30.376Z,0ce63796-8196-4b8b-86d1-dc13dfed3a79,OTHER,true,true,Croatia,hr,105129271272621,Vesna Vučemilović,Facebook
 0f9ec1c3-9592-4f20-9617-ca4f67425f86,Branimir Bunjac (ŽZ),2022-08-16T15:24:35.819Z,a18415bf-6a2a-4138-9f1c-3865af1322e0,OTHER,true,true,Croatia,hr,1842131359347980,Branimir Bunjac (ŽZ),Facebook
